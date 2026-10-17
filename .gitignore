@@ -1,0 +1,10 @@
+*.bak
+build/
+bin/
+target/
+*.obj
+*.pdb
+*.exp
+*.lib
+*.dll
+scratch/
